@@ -1,0 +1,19 @@
+/* ここから下に記載していく */
+li{
+    list-style: none;
+    float: left;
+    padding: 30px;
+}
+
+.header{
+    background-color: aqua;
+    height:90px;
+}
+
+.header-logo{
+    float: left;
+}
+
+.header-list{
+    padding-top: 20px;   
+}
